@@ -20,7 +20,7 @@ $ go mod tidy
 $ go build -o build/revelations
 ```
 
-The server is now built to `build/tetris-axis`
+The server is now built to `build/revelations`
 
 When compiling with only Go, the authentication servers build string is not automatically set. This should not cause any issues with gameplay, but it means that the server build will not be visible in any packet dumps or logs a title may produce
 
